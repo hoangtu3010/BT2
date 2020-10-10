@@ -1,0 +1,92 @@
+body{
+    background-image: url(../imgs/lab3.2.jpg);
+    background-size: cover;
+}
+img{
+    max-width: 100%;
+}
+#l0{
+    height: 1000px;
+    width: 1100px;
+    border: 1px solid #888888;
+    padding: 40px;
+    box-sizing: border-box;
+    background-color: #efefef;
+    margin-top: 50px;
+    margin-left: 210px;
+    overflow: hidden;
+}
+#l1{
+    width: 1100px;
+    height: 220px;
+    border: 1px white;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: #b9c2cb;
+    text-align: center;
+    margin-top: -40px;
+    margin-left: -40px;
+}
+#l11{
+    font-size: 16px;
+    margin-top: -40px;
+    margin-left: -65px;
+}
+#l2{
+    height: 920px;
+    width: 280px;
+    border: 1px white;
+    padding: 40px;
+    box-sizing: border-box;
+    background-color: #e7e7e7;
+    margin-top: -180px;
+    margin-left: 30px;
+}
+#l3{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-left: 23px;
+}
+#l4{
+    width: 100px;
+    height: 200px;
+    border: 1px solid #888888;
+    padding: 40px;
+    box-sizing: border-box;
+    background-color: #efefef;
+}
+.l5{
+    border-bottom: solid #b7b7b7 3px;
+    padding-bottom: 30px;
+}
+.l6{
+    margin-top: 30px;
+    font-family: 'roboto', sans-serif;
+    font-size: 18px;
+}
+.l7{
+    font-family: 'roboto', sans-serif;
+    font-size: 15px;
+}
+.l8{
+    font-family: 'roboto', sans-serif;
+    font-size: 50px;
+    margin-left: 60px;
+}
+.l9{
+    width: 740px;
+    height: 720px;
+    border: 0px solid #888888;
+    padding: 40px;
+    box-sizing: border-box;
+    background-color: #efefef;
+    float: right;
+    text-align: justify;
+    margin-top: -740px;
+    margin-right: -20px;
+    max-width: 700px;
+}
+ul{
+    margin-top: -15px;
+}
