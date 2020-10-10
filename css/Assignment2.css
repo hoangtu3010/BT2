@@ -1,0 +1,16 @@
+p{
+    margin-left: 400px;
+    max-width: 750px;
+}
+#d1{
+    margin-left: 800px;
+}
+th{
+    font-weight: normal;
+}
+.d11{
+    color: deeppink;
+    text-decoration-line: underline;
+    font-style: italic;
+    border-style: dot-dot-dash;
+}
